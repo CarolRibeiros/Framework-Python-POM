@@ -1,0 +1,18 @@
+#Paths
+
+#Drivers
+chromedriver_path=Resources/Drivers/chromedriver.exe
+
+#Images
+images_path=Resources/Images
+logo_sempre_path=Resources/Images/logo_sempreit.png
+logo_alfa_path=Resources/Images/banco_alfa_logo.png
+
+#Report
+report_path=Resources/Report
+save_report_path=Reports/PdfReports
+screenshot_path=Resources/Screenshots
+
+#HTML Report
+html_report_path=Reports/HtmlReports
+
